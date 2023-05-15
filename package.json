@@ -1,0 +1,28 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Aydan Yunus Full Stack 1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aydanyunus/npm-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aydanyunus/npm-homework/issues"
+  },
+  "homepage": "https://github.com/aydanyunus/npm-homework#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.29.1",
+    "eslint": "^8.40.0",
+    "gulp": "^4.0.2"
+  }
+}
